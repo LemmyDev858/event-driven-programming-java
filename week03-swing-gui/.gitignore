@@ -1,0 +1,11 @@
+# Compiled Java files
+*.class
+
+# Build output
+build/
+out/
+target/
+dist/
+
+# IDE files
+nbproject/private/
