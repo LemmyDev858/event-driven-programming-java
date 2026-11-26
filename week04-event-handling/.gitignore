@@ -1,0 +1,16 @@
+# Compiled Java files
+*.class
+
+# Build output
+build/
+out/
+target/
+dist/
+
+# IDE files
+nbproject/private/
+**/nbproject/private/
+
+# Activity 5 build output
+activity5-interactive-form/build/
+activity5-interactive-form/dist/
